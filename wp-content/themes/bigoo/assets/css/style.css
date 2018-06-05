@@ -1,0 +1,15 @@
+p {
+  text-indent: 2em;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+.client-help-center h1 {
+  text-align: center;
+}
+.client-help-center .time {
+  text-align: right;
+}
